@@ -1,4 +1,4 @@
-# Day 3 – HackerRank Basic Problems Practice
+# Day 3 – HackerRank Basic Problems Practice.
 
 
 # 1. Solve Me First
